@@ -1,0 +1,17 @@
+.menu-links {
+  display: block;
+  text-align: center;
+}
+
+.menu-links a {
+  padding: 0 10px;
+  text-decoration: none;
+}
+
+.secondLine {
+  text-align: center;
+}
+
+.footerImage {
+  text-align: center;
+}
